@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/complaint-service/static/css/main.e7364996.css",
+    "main.js": "/complaint-service/static/js/main.9a480a61.js",
+    "static/js/453.03346f77.chunk.js": "/complaint-service/static/js/453.03346f77.chunk.js",
+    "index.html": "/complaint-service/index.html",
+    "main.e7364996.css.map": "/complaint-service/static/css/main.e7364996.css.map",
+    "main.9a480a61.js.map": "/complaint-service/static/js/main.9a480a61.js.map",
+    "453.03346f77.chunk.js.map": "/complaint-service/static/js/453.03346f77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7364996.css",
+    "static/js/main.9a480a61.js"
+  ]
+}
